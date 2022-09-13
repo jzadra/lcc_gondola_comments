@@ -13,3 +13,5 @@ for definitions) are consolidated in “comment codes.csv”.
 Note that the parsing has not being rigorously error checked. Please use
 the issue tracker here to document any problems. Forking and PRs are
 welcome, as are the addition of analysis scripts.
+
+Reddit discussion here: https://www.reddit.com/r/SaltLakeCity/comments/xde6r7/ive_scrapedparsed_the_lcc_gondola_comments_they/
